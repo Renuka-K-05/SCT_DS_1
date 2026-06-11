@@ -1,5 +1,5 @@
 # SCT_DS_1
-SkillCraft Technology Data Science Internship -
+SkillCraft Technology Data Science Internship 
 # Task 1: Population Distributoion Visualization
 # Objective
 The objective of this task is to create visualizations that represent the distribution of a continuous or categorical variable using charts such as histograms or barcharts.
